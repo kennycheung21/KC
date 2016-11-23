@@ -9,13 +9,12 @@
   </description>
 
   <properties>
-    <!-- HDP 2.4 Version. Adjust for your environment!!! -->
     <hadoop.version>2.7.1.2.4.2.0-258</hadoop.version>
     <hbase.version>1.1.2.2.4.2.0-258</hbase.version>
     <spark.version>1.6.1.2.4.2.0-258</spark.version>
     <kafka.version>0.9.0.2.4.2.0-258</kafka.version>
 
-    <!-- These properties should remain -->
+
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
     <encoding>UTF-8</encoding>
